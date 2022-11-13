@@ -18,7 +18,7 @@ namespace MyUnitTestPuma
         }
 
         [Test]
-        public void Test1()
+        public void CheckingTheDisplayOfDiscountsOnTheProductPage()
         {
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
             driver.FindElement(By.Id("onetrust-accept-btn-handler")).Click();
