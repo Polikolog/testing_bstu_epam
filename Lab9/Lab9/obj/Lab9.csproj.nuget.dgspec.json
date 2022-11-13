@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "T:\\testing_bstu\\testing_bstu_epam\\Lab9\\Lab9\\Lab9.csproj": {}
+    "T:\\testing_bstu\\testing_bstu_epam\\lab9\\Lab9\\Lab9.csproj": {}
   },
   "projects": {
-    "T:\\testing_bstu\\testing_bstu_epam\\Lab9\\Lab9\\Lab9.csproj": {
+    "T:\\testing_bstu\\testing_bstu_epam\\lab9\\Lab9\\Lab9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\testing_bstu\\testing_bstu_epam\\Lab9\\Lab9\\Lab9.csproj",
+        "projectUniqueName": "T:\\testing_bstu\\testing_bstu_epam\\lab9\\Lab9\\Lab9.csproj",
         "projectName": "Lab9",
-        "projectPath": "T:\\testing_bstu\\testing_bstu_epam\\Lab9\\Lab9\\Lab9.csproj",
+        "projectPath": "T:\\testing_bstu\\testing_bstu_epam\\lab9\\Lab9\\Lab9.csproj",
         "packagesPath": "C:\\Users\\mi\\.nuget\\packages\\",
-        "outputPath": "T:\\testing_bstu\\testing_bstu_epam\\Lab9\\Lab9\\obj\\",
+        "outputPath": "T:\\testing_bstu\\testing_bstu_epam\\lab9\\Lab9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mi\\AppData\\Roaming\\NuGet\\NuGet.Config",

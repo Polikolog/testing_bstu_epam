@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "T:\\testing_bstu\\testing_bstu_epam\\Lab9\\MyUnitTestPuma\\MyUnitTestPuma.csproj": {}
+    "T:\\testing_bstu\\testing_bstu_epam\\lab9\\MyUnitTestPuma\\MyUnitTestPuma.csproj": {}
   },
   "projects": {
-    "T:\\testing_bstu\\testing_bstu_epam\\Lab9\\MyUnitTestPuma\\MyUnitTestPuma.csproj": {
+    "T:\\testing_bstu\\testing_bstu_epam\\lab9\\MyUnitTestPuma\\MyUnitTestPuma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\testing_bstu\\testing_bstu_epam\\Lab9\\MyUnitTestPuma\\MyUnitTestPuma.csproj",
+        "projectUniqueName": "T:\\testing_bstu\\testing_bstu_epam\\lab9\\MyUnitTestPuma\\MyUnitTestPuma.csproj",
         "projectName": "MyUnitTestPuma",
-        "projectPath": "T:\\testing_bstu\\testing_bstu_epam\\Lab9\\MyUnitTestPuma\\MyUnitTestPuma.csproj",
+        "projectPath": "T:\\testing_bstu\\testing_bstu_epam\\lab9\\MyUnitTestPuma\\MyUnitTestPuma.csproj",
         "packagesPath": "C:\\Users\\mi\\.nuget\\packages\\",
-        "outputPath": "T:\\testing_bstu\\testing_bstu_epam\\Lab9\\MyUnitTestPuma\\obj\\",
+        "outputPath": "T:\\testing_bstu\\testing_bstu_epam\\lab9\\MyUnitTestPuma\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mi\\AppData\\Roaming\\NuGet\\NuGet.Config",

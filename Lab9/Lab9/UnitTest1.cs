@@ -7,11 +7,17 @@ namespace FunctionalTests
 {
     public class Tests
     {
+        IWebDriver driver;
+        [SetUp]
+        public void Setup()
+        {
+            driver = new ChromeDriver();
+            driver.Url = "https://pastebin.com";
+        }
+
         [Test]
         public void ICanWin()
         {
-            IWebDriver driver = new ChromeDriver();
-            driver.Url = "https://pastebin.com";
             driver.FindElement(By.Id("postform-text")).SendKeys("Hello from WebDriver");
             driver.FindElement(By.Id("select2-postform-expiration-container")).Click();
             driver.FindElement(By.XPath("//li[text()='10 Minutes']")).Click();
@@ -24,11 +30,7 @@ namespace FunctionalTests
         [Test]
         public void BringItOn()
         {
-            IWebDriver driver = new ChromeDriver();
-            driver.Url = "https://pastebin.com";
-
             driver.FindElement(By.Id("postform-text")).SendKeys("git config --global user.name  \"New Sheriff in Town\" \ngit reset $(git commit - tree HEAD ^{ tree} -m \"Legacy code\") \ngit push origin master --force");
-
             driver.FindElement(By.Id("select2-postform-format-container")).Click();
             driver.FindElement(By.XPath("//li[text()='Bash']")).Click();
 

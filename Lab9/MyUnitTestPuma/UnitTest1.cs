@@ -7,12 +7,19 @@ namespace MyUnitTestPuma
 {
     public class Tests
     {
+        IWebDriver driver;
+
+        [SetUp]
+        public void Setup()
+        {
+            driver = new ChromeDriver();
+            driver.Url = "https://eu.puma.com/";
+            driver.Manage().Window.Maximize();
+        }
+
         [Test]
         public void Test1()
         {
-            IWebDriver driver = new ChromeDriver();
-            driver.Url = "https://eu.puma.com/";
-            driver.Manage().Window.Maximize();
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
             driver.FindElement(By.Id("onetrust-accept-btn-handler")).Click();
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);

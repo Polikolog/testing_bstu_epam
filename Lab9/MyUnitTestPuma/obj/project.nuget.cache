@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0DmyhyU55L4kpdNuV/AMFxTOkW2tWdxQ3LE8XtiPTFNkKZzKBty++7FEbjTPoI+9i1dWx9BKH5NBbjSbqcugow==",
+  "dgSpecHash": "xUPenHWjWqjEAZmLTQT6wrFu8a7aC01DeBbpIQhNXt+2q/3KlBZRdYwBLtlLe6mAgSZ0xSAKnP1R6jjrK5Nqcw==",
   "success": true,
-  "projectFilePath": "T:\\testing_bstu\\testing_bstu_epam\\Lab9\\MyUnitTestPuma\\MyUnitTestPuma.csproj",
+  "projectFilePath": "T:\\testing_bstu\\testing_bstu_epam\\lab9\\MyUnitTestPuma\\MyUnitTestPuma.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mi\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\mi\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
