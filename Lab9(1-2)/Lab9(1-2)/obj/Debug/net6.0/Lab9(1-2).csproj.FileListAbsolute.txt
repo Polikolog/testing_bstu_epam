@@ -1,0 +1,12 @@
+T:\testing_bstu\testing_bstu_epam\Lab9(1-2)\Lab9(1-2)\bin\Debug\net6.0\Lab9(1-2).deps.json
+T:\testing_bstu\testing_bstu_epam\Lab9(1-2)\Lab9(1-2)\bin\Debug\net6.0\Lab9(1-2).dll
+T:\testing_bstu\testing_bstu_epam\Lab9(1-2)\Lab9(1-2)\bin\Debug\net6.0\ref\Lab9(1-2).dll
+T:\testing_bstu\testing_bstu_epam\Lab9(1-2)\Lab9(1-2)\bin\Debug\net6.0\Lab9(1-2).pdb
+T:\testing_bstu\testing_bstu_epam\Lab9(1-2)\Lab9(1-2)\obj\Debug\net6.0\Lab9(1-2).csproj.AssemblyReference.cache
+T:\testing_bstu\testing_bstu_epam\Lab9(1-2)\Lab9(1-2)\obj\Debug\net6.0\Lab9(1-2).GeneratedMSBuildEditorConfig.editorconfig
+T:\testing_bstu\testing_bstu_epam\Lab9(1-2)\Lab9(1-2)\obj\Debug\net6.0\Lab9(1-2).AssemblyInfoInputs.cache
+T:\testing_bstu\testing_bstu_epam\Lab9(1-2)\Lab9(1-2)\obj\Debug\net6.0\Lab9(1-2).AssemblyInfo.cs
+T:\testing_bstu\testing_bstu_epam\Lab9(1-2)\Lab9(1-2)\obj\Debug\net6.0\Lab9(1-2).csproj.CoreCompileInputs.cache
+T:\testing_bstu\testing_bstu_epam\Lab9(1-2)\Lab9(1-2)\obj\Debug\net6.0\Lab9(1-2).dll
+T:\testing_bstu\testing_bstu_epam\Lab9(1-2)\Lab9(1-2)\obj\Debug\net6.0\ref\Lab9(1-2).dll
+T:\testing_bstu\testing_bstu_epam\Lab9(1-2)\Lab9(1-2)\obj\Debug\net6.0\Lab9(1-2).pdb
