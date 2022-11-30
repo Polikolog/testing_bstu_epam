@@ -35,7 +35,7 @@ namespace Lab10
         public void AddingProductInFavoritesList()
         {
             var pumaPage = new PumaPageObject(driver);
-            pumaPage.CheckingTheDisplayOfDiscountsOnTheProductPage();
+            pumaPage.AddingProductInFavoritesList();
             TearDown();
         }
     }
